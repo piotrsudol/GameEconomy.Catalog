@@ -1,7 +1,7 @@
 ﻿using GameEconomy.Catalog.Dtos;
 using GameEconomy.Catalog.Entities;
 using GameEconomy.Catalog.Extensions;
-using GameEconomy.Catalog.Repositories;
+using GameEconomy.Common;
 using Microsoft.AspNetCore.Mvc;
 
 namespace GameEconomy.Catalog.Controllers

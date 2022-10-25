@@ -1,5 +1,5 @@
 using GameEconomy.Catalog.Entities;
-using GameEconomy.Catalog.Repositories;
+using GameEconomy.Common.MongoDB;
 
 var builder = WebApplication.CreateBuilder(args);
 

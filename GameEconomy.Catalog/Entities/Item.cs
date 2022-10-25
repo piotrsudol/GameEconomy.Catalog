@@ -1,4 +1,6 @@
-﻿namespace GameEconomy.Catalog.Entities
+﻿using GameEconomy.Common;
+
+namespace GameEconomy.Catalog.Entities
 {
     public class Item : IEntity
     {

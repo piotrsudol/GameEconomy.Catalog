@@ -1,6 +1,6 @@
 using GameEconomy.Catalog.Controllers;
 using GameEconomy.Catalog.Entities;
-using GameEconomy.Catalog.Repositories;
+using GameEconomy.Common;
 using Moq;
 
 namespace GameEconomy.Catalog.Tests
