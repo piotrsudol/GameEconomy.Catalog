@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameEconomy.Catalog", "GameEconomy.Catalog\GameEconomy.Catalog.csproj", "{3A042707-CE28-48C4-A15D-A5A5CA4E689D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameEconomy.Catalog.Tests", "GameEconomy.Catalog.Tests\GameEconomy.Catalog.Tests.csproj", "{14B5B957-8C8E-4172-97FC-292F2FD52D26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A042707-CE28-48C4-A15D-A5A5CA4E689D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A042707-CE28-48C4-A15D-A5A5CA4E689D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A042707-CE28-48C4-A15D-A5A5CA4E689D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A042707-CE28-48C4-A15D-A5A5CA4E689D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14B5B957-8C8E-4172-97FC-292F2FD52D26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B5B957-8C8E-4172-97FC-292F2FD52D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14B5B957-8C8E-4172-97FC-292F2FD52D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14B5B957-8C8E-4172-97FC-292F2FD52D26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20A9A8E5-AB3D-46C5-B437-85340531424D}
+	EndGlobalSection
+EndGlobal
